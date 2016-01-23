@@ -1,0 +1,22 @@
+{
+  "name": "es6-react-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.8.1",
+    "firebase": "^2.3.2",
+    "history": "^1.17.0",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
+    "react-router": "^1.0.3"
+  },
+  "devDependencies": {
+    "reactfire": "^0.5.1"
+  }
+}
